@@ -4,7 +4,7 @@
     {
       "src": "package.json",
       "use": "@vercel/static-build",
-      "config": { "distDir": "out", "buildCommand": "npx vite build" }
+      "config": { "distDir": "dist", "buildCommand": "npm run build" }
     }
   ],
   "routes": [
