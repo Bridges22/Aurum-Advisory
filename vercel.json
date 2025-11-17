@@ -1,4 +1,4 @@
 {
-  "buildCommand": "cd Website && npm run build",
+  "buildCommand": "cd Website && npm install && npm run build",
   "outputDirectory": "Website/dist"
 }
