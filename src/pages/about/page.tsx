@@ -127,7 +127,7 @@ export default function About() {
             </div>
             <div className="animate-on-scroll slide-in-right">
               <h2 className="text-4xl font-bold text-gray-900 mb-6" style={{ fontFamily: '"Playfair Display", serif' }}>
-                Dorothy Shaly
+                Dorothy Shali
               </h2>
               <h3 className="text-xl text-yellow-600 font-semibold mb-6">
                 Founder & International Relations Consultant
