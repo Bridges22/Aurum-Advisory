@@ -133,7 +133,7 @@ export default function About() {
                 Founder & International Relations Consultant
               </h3>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Dorothy Shaly is a distinguished International Relations Consultant with extensive experience in connecting 
+                Dorothy Shali is a distinguished International Relations Consultant with extensive experience in connecting 
                 global clients with premium opportunities across Kenya. Her multilingual expertise and deep cultural fluency 
                 make her the ideal bridge between international investors and Kenya's finest prospects.
               </p>
