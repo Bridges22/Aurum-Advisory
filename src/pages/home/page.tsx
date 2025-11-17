@@ -230,7 +230,7 @@ export default function Home() {
             </div>
             <div className="animate-on-scroll slide-in-right">
               <h2 className="text-4xl font-bold text-gray-900 mb-6" style={{ fontFamily: '"Playfair Display", serif' }}>
-                Meet Dorothy Shaly
+                Meet Dorothy Shali
               </h2>
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                 International Relations Consultant, multilingual expert, and your trusted guide to Kenya's premium opportunities. 
